@@ -1,4 +1,4 @@
-<h3 >Hi there, I'm Eduardo Francellino, tech passionate, speaker, Lucas' father and Luciana's Husband!</h3>
+<h3 >Hi there, I'm Eduardo Francellino, tech passionate, speaker, Lucas' father and Luciana's husband!</h3>
 
 - 🔭 I’m currently working at [IBM Brasil](www.ibm.com.br)
 - 🌱 I’m currently learning **Everything that I use or I'm going to use.**
