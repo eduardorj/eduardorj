@@ -45,7 +45,7 @@
 
 ### Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeel91&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel91&hide=TeX&layout=compact&theme=dracula)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=eduardorj&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardorj&hide=TeX&layout=compact&theme=dracula)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eduardorj)
