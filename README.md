@@ -1,6 +1,6 @@
 <h3 >Hi there, I'm Eduardo Francellino, tech passionate, speaker, Lucas' father and Luciana's husband!</h3>
 
-- 🔭 I’m currently working at [IBM Brasil](www.ibm.com.br)
+- 🔭 I’m currently working at [Google](www.google.com)
 - 🌱 I’m currently learning **Everything that I use or I'm going to use.**
 - 👯 I’m looking to collaborate on [Cloud Native Projects](http://github.com/cncf/)
 - 🤝 I’m looking for help with **Open Source and Open Standard Projects**
